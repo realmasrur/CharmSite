@@ -33,7 +33,16 @@ export const LINKS = {
 
 // Add real people here. The Team section appears only when this has entries.
 // { name: "Full Name", role: "Founder", bio: "One line.", linkedin: "https://linkedin.com/in/...", x: "", photo: "/team/name.jpg" }
-export const TEAM = [];
+export const TEAM = [
+  {
+    name: "Masrur Ahmmed",
+    role: "Founder and Blockchain Developer",
+    bio: "Founder and blockchain developer of CHARM.",
+    linkedin: "https://www.linkedin.com/in/masrur-ahmmed-a831853a5",
+    x: "https://x.com/realmasrur",
+    photo: "/team/masrur.jpg", // optional: put the image in public/team/
+  },
+];
 
 export const DETAILS = [
   ["Name", "Charm"],
