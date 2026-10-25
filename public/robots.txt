@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charm.voidkin.world/sitemap.xml
