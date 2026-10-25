@@ -5,7 +5,7 @@ export const SITE = {
   tagline: "Everybody deserves to be charmed.",
   intro: "A friendly, fixed-supply ERC-20 token on Polygon for small acts of appreciation: tipping, thank-yous and community rewards.",
   url: "https://charm.voidkin.world",
-  email: "info@workmail.space", // TODO: Polygonscan prefers an address on your own domain, e.g. hello@voidkin.world
+  email: "contact.charm@voidkin.world", // TODO: Polygonscan prefers an address on your own domain, e.g. hello@voidkin.world
 };
 
 export const TOKEN = {
