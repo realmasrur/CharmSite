@@ -37,7 +37,7 @@ export const TEAM = [
   {
     name: "Masrur Ahmmed",
     role: "Founder and Blockchain Developer",
-    bio: "Founder and blockchain developer of CHARM.",
+    bio: "Founder and blockchain developer of CHARM. Email address masrur.charm@voidkin.world",
     linkedin: "https://www.linkedin.com/in/masrur-ahmmed-a831853a5",
     x: "https://x.com/realmasrur",
     photo: "/team/masrur.jpg", // optional: put the image in public/team/
